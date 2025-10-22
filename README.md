@@ -4,6 +4,7 @@
 This repository is the official implementation of [SYMPHONY: Synergistic Multi-agent Planning with Heterogeneous Language Model Assembly
 ](https://openreview.net/forum?id=7Spt8cAJq0&noteId=7Spt8cAJq0). 
 
+![Overview](./img/overview.png)
 
 # Requirements
 Each of the three tasks corresponds to a separate folder: hotpot, webshop, and programming.
